@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vanesa Torales
+# Vanesa Torales 🐈‍⬛
 
 Analista Programadora · Backend Developer
 
@@ -10,20 +10,20 @@ C# / .NET / SQL
 
 ---
 
-### ◇ Sobre mí
+### 🦢 Sobre mí
 
 Desarrollo, mantengo y doy soporte a aplicaciones empresariales. Me gusta entender los procesos de negocio, investigar errores y construir soluciones simples.
 
 Combino desarrollo backend, análisis funcional e integración de servicios. Valoro el autoaprendizaje y la constancia para resolver problemas.
 
-### ⌘ Stack
+### 💌 Stack
 
 **Backend** · C#, .NET, ASP.NET MVC, Web API, Entity Framework  
 **Datos** · SQL Server, Oracle, PL/SQL, PostgreSQL  
 **Integraciones** · REST, SOAP  
 **Herramientas** · Git, GitHub, Visual Studio, Jira
 
-### ↗ Aprendiendo
+### 🚀 Aprendiendo
 
 Linux, Docker y prácticas DevOps, con interés en ciberseguridad y desarrollo seguro.
 
